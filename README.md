@@ -1,4 +1,4 @@
-# API de Gestión de Tareas con Django
+# API de Gestión de Tareas con Python - Django
 
 <img width="100" heigth="100" src="https://github.com/JorgeRomeroC/tasks/assets/33013656/ff5a63ce-1db2-4813-a238-a25620f7020f" alt="LinkedIn Badge"/>
 
