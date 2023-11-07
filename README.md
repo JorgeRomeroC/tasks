@@ -1,5 +1,21 @@
 # API de Gestión de Tareas con Django
 
+<img width="100" heigth="100" src="https://github.com/JorgeRomeroC/tasks/assets/33013656/ff5a63ce-1db2-4813-a238-a25620f7020f" alt="LinkedIn Badge"/>
+
+
+## License
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
+[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)  
+
+## Contacto 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/jorge-romero-contreras/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+</div> 
+
 ## Descripción del Proyecto
 
 Este proyecto es una API de gestión de tareas diseñada para permitir a los usuarios crear, actualizar, eliminar y visualizar tareas de forma eficiente. Utiliza Django y Django REST Framework para garantizar una arquitectura robusta y escalable, con autenticación JWT para la seguridad y Swagger combinado con Spectacular para la documentación de la API.
