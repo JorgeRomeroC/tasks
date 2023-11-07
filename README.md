@@ -73,4 +73,18 @@ http://127.0.0.1:8000/api/schema/swagger/
 
 ## Para hacer uso de los endponits de la API
 
--Deberas ir en la vista de la documentación Swagger en la sección TOKEN y ingresar las credenciales otorgadas arriba
+1. Deberas ir en la vista de la documentación Swagger en la sección TOKEN y ingresar las credenciales otorgadas arriba
+
+<img width="1471" alt="Captura de pantalla 2023-11-07 a la(s) 03 28 30" src="https://github.com/JorgeRomeroC/tasks/assets/33013656/742b37a8-70cd-4856-81fc-42ced7656eb4">
+
+2. Copia el token de acceso como se ve en la imagen
+
+![Captura de pantalla 2023-11-07 a la(s) 03 33 57](https://github.com/JorgeRomeroC/tasks/assets/33013656/00b16dcc-424a-4191-b358-a19a5274eb20)
+
+3. Ve a la zona superior, en el boton Authorize, y en el recuadro que te aparezca ingresa el token que copiaste
+   
+![Captura de pantalla 2023-11-07 a la(s) 03 36 25](https://github.com/JorgeRomeroC/tasks/assets/33013656/7761990d-f21b-4852-8c6f-3cb3d82b9178)
+
+## Ahora podras hacer uso de las acciones CRUD de esta API TASKS
+
+
